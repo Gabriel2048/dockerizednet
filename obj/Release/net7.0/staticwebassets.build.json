@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/3pzt5UjtarBBV1FDfj76PyjR8iUErSsM7IZFrQEyxs=",
+  "Source": "dockerizednet",
+  "BasePath": "_content/dockerizednet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
